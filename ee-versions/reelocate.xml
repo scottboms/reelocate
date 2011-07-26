@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:ee_addon="http://expressionengine-addons.com/nsm_addon_updater/#rss-xml">
+	<channel>
+		<title>Reelocate Changelog</title>
+		<link>http://exp-resso.com/ee-versions/reelocate.xml</link>
+		<description>Initial release.</description>
+		<item>
+			<title>Version 1.1</title>
+			<ee_addon:version>1.0</ee_addon:version>
+			<link>http://exp-resso.com/reelocate/</link>
+			<pubDate>Monday, 4 October 2010 12:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<ul>
+					<li>Added detection for many more URLs and paths stored in channel preferences.</li>
+				</ul>
+				]]>
+			</description>
+			<enclosure url="https://github.com/crescendo/reelocate/zipball/master" type="application/zip" />
+		</item>
+		<item>
+			<title>Version 1.0</title>
+			<ee_addon:version>1.1</ee_addon:version>
+			<link>http://exp-resso.com/reelocate/</link>
+			<pubDate>Tuesday, 21 September 2010 12:00:00 +0000</pubDate>
+			<description><![CDATA[
+				<ul>
+					<li>Initial release.</li>
+				</ul>
+				]]>
+			</description>
+			<enclosure url="https://github.com/crescendo/reelocate/zipball/master" type="application/zip" />
+		</item>
+	</channel>
+</rss>
